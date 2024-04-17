@@ -1,0 +1,2802 @@
+[
+    {
+        "name": "Bánh giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 172,
+            "fat": 26.16,
+            "carbs": 52.95,
+            "protein": 13.11
+        }
+    },
+    {
+        "name": "Bánh đúc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 451,
+            "fat": 28.05,
+            "carbs": 70.8,
+            "protein": 8.06
+        }
+    },
+    {
+        "name": "Cơm sườn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 308,
+            "fat": 24.8,
+            "carbs": 22.84,
+            "protein": 29.58
+        }
+    },
+    {
+        "name": "Nem nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 456,
+            "fat": 9.41,
+            "carbs": 46.73,
+            "protein": 20.29
+        }
+    },
+    {
+        "name": "Rau muống xào",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 450,
+            "fat": 17.31,
+            "carbs": 29.54,
+            "protein": 33.61
+        }
+    },
+    {
+        "name": "Bún mắm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 304,
+            "fat": 22.4,
+            "carbs": 73.0,
+            "protein": 37.15
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 441,
+            "fat": 27.34,
+            "carbs": 13.49,
+            "protein": 30.41
+        }
+    },
+    {
+        "name": "Bún thịt nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 366,
+            "fat": 21.25,
+            "carbs": 15.83,
+            "protein": 31.44
+        }
+    },
+    {
+        "name": "Rau muống xào",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 194,
+            "fat": 12.26,
+            "carbs": 34.71,
+            "protein": 9.33
+        }
+    },
+    {
+        "name": "Chè",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 208,
+            "fat": 19.34,
+            "carbs": 70.42,
+            "protein": 31.02
+        }
+    },
+    {
+        "name": "Bánh ít trần",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 412,
+            "fat": 9.33,
+            "carbs": 37.98,
+            "protein": 27.55
+        }
+    },
+    {
+        "name": "Nem nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 283,
+            "fat": 20.56,
+            "carbs": 56.51,
+            "protein": 20.85
+        }
+    },
+    {
+        "name": "Bún thịt nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 196,
+            "fat": 14.96,
+            "carbs": 71.1,
+            "protein": 13.63
+        }
+    },
+    {
+        "name": "Lẩu thái",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 294,
+            "fat": 29.42,
+            "carbs": 66.44,
+            "protein": 14.14
+        }
+    },
+    {
+        "name": "Sườn nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 426,
+            "fat": 18.09,
+            "carbs": 36.13,
+            "protein": 36.67
+        }
+    },
+    {
+        "name": "Bánh xèo",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 245,
+            "fat": 11.14,
+            "carbs": 44.47,
+            "protein": 14.83
+        }
+    },
+    {
+        "name": "Bún cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 396,
+            "fat": 6.95,
+            "carbs": 71.79,
+            "protein": 29.47
+        }
+    },
+    {
+        "name": "Cà ri gà",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 269,
+            "fat": 22.13,
+            "carbs": 27.26,
+            "protein": 34.96
+        }
+    },
+    {
+        "name": "Bún cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 252,
+            "fat": 21.49,
+            "carbs": 71.63,
+            "protein": 35.5
+        }
+    },
+    {
+        "name": "Thịt kho tàu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 159,
+            "fat": 5.81,
+            "carbs": 16.23,
+            "protein": 28.35
+        }
+    },
+    {
+        "name": "Lẩu thái",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 350,
+            "fat": 24.78,
+            "carbs": 70.12,
+            "protein": 34.49
+        }
+    },
+    {
+        "name": "Bánh tráng nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 287,
+            "fat": 8.3,
+            "carbs": 78.44,
+            "protein": 12.26
+        }
+    },
+    {
+        "name": "Gà nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 433,
+            "fat": 14.62,
+            "carbs": 22.64,
+            "protein": 22.2
+        }
+    },
+    {
+        "name": "Súp cua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 417,
+            "fat": 9.67,
+            "carbs": 66.92,
+            "protein": 9.86
+        }
+    },
+    {
+        "name": "Tôm hùm bơ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 220,
+            "fat": 17.22,
+            "carbs": 70.87,
+            "protein": 28.16
+        }
+    },
+    {
+        "name": "Sườn xào chua ngọt",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 396,
+            "fat": 8.71,
+            "carbs": 34.53,
+            "protein": 22.03
+        }
+    },
+    {
+        "name": "Đậu phụ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 164,
+            "fat": 10.75,
+            "carbs": 43.13,
+            "protein": 37.36
+        }
+    },
+    {
+        "name": "Gỏi cuốn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 418,
+            "fat": 6.17,
+            "carbs": 35.23,
+            "protein": 7.64
+        }
+    },
+    {
+        "name": "Sườn nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 275,
+            "fat": 19.25,
+            "carbs": 52.19,
+            "protein": 19.95
+        }
+    },
+    {
+        "name": "Bánh ít trần",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 428,
+            "fat": 24.46,
+            "carbs": 22.62,
+            "protein": 35.72
+        }
+    },
+    {
+        "name": "Nem chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 262,
+            "fat": 6.61,
+            "carbs": 62.68,
+            "protein": 23.79
+        }
+    },
+    {
+        "name": "Bánh ít trần",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 370,
+            "fat": 23.72,
+            "carbs": 42.55,
+            "protein": 31.01
+        }
+    },
+    {
+        "name": "Cá lóc nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 414,
+            "fat": 23.51,
+            "carbs": 59.03,
+            "protein": 15.81
+        }
+    },
+    {
+        "name": "Bánh khot",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 461,
+            "fat": 11.67,
+            "carbs": 19.59,
+            "protein": 9.74
+        }
+    },
+    {
+        "name": "Đậu phụ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 414,
+            "fat": 6.99,
+            "carbs": 13.96,
+            "protein": 23.6
+        }
+    },
+    {
+        "name": "Bánh xèo thịt nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 300,
+            "fat": 8.01,
+            "carbs": 41.64,
+            "protein": 9.03
+        }
+    },
+    {
+        "name": "Chả giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 229,
+            "fat": 16.65,
+            "carbs": 48.22,
+            "protein": 26.82
+        }
+    },
+    {
+        "name": "Bánh tráng nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 470,
+            "fat": 15.41,
+            "carbs": 63.86,
+            "protein": 23.07
+        }
+    },
+    {
+        "name": "Cá lóc nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 294,
+            "fat": 25.31,
+            "carbs": 53.01,
+            "protein": 22.25
+        }
+    },
+    {
+        "name": "Trứng vịt lộn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 223,
+            "fat": 19.66,
+            "carbs": 48.28,
+            "protein": 27.76
+        }
+    },
+    {
+        "name": "Lẩu thái",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 290,
+            "fat": 27.11,
+            "carbs": 75.85,
+            "protein": 18.28
+        }
+    },
+    {
+        "name": "Xôi",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 460,
+            "fat": 24.01,
+            "carbs": 50.04,
+            "protein": 8.3
+        }
+    },
+    {
+        "name": "Cà phê sữa đá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 289,
+            "fat": 8.69,
+            "carbs": 60.41,
+            "protein": 12.45
+        }
+    },
+    {
+        "name": "Ốc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 458,
+            "fat": 12.62,
+            "carbs": 39.99,
+            "protein": 6.72
+        }
+    },
+    {
+        "name": "Nem chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 442,
+            "fat": 8.49,
+            "carbs": 16.28,
+            "protein": 20.66
+        }
+    },
+    {
+        "name": "Gà kho gừng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 351,
+            "fat": 14.06,
+            "carbs": 49.16,
+            "protein": 33.95
+        }
+    },
+    {
+        "name": "Bánh bột lọc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 150,
+            "fat": 18.29,
+            "carbs": 28.43,
+            "protein": 11.85
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 166,
+            "fat": 18.68,
+            "carbs": 74.52,
+            "protein": 25.83
+        }
+    },
+    {
+        "name": "Bánh tét",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 302,
+            "fat": 23.68,
+            "carbs": 63.13,
+            "protein": 7.12
+        }
+    },
+    {
+        "name": "Thịt nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 426,
+            "fat": 10.33,
+            "carbs": 38.95,
+            "protein": 14.08
+        }
+    },
+    {
+        "name": "Ốc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 416,
+            "fat": 27.2,
+            "carbs": 16.26,
+            "protein": 32.55
+        }
+    },
+    {
+        "name": "Lẩu thái",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 475,
+            "fat": 9.1,
+            "carbs": 70.4,
+            "protein": 19.55
+        }
+    },
+    {
+        "name": "Cá lóc nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 392,
+            "fat": 13.29,
+            "carbs": 70.09,
+            "protein": 12.62
+        }
+    },
+    {
+        "name": "Trứng vịt lộn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 243,
+            "fat": 10.04,
+            "carbs": 20.15,
+            "protein": 11.52
+        }
+    },
+    {
+        "name": "Bánh tráng nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 177,
+            "fat": 9.07,
+            "carbs": 42.74,
+            "protein": 39.39
+        }
+    },
+    {
+        "name": "Rau muống xào",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 412,
+            "fat": 5.76,
+            "carbs": 11.33,
+            "protein": 9.13
+        }
+    },
+    {
+        "name": "Canh chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 240,
+            "fat": 10.32,
+            "carbs": 64.65,
+            "protein": 27.83
+        }
+    },
+    {
+        "name": "Chả cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 466,
+            "fat": 10.47,
+            "carbs": 26.82,
+            "protein": 22.92
+        }
+    },
+    {
+        "name": "Phá lấu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 438,
+            "fat": 21.71,
+            "carbs": 66.9,
+            "protein": 31.02
+        }
+    },
+    {
+        "name": "Cá kho tộ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 294,
+            "fat": 13.13,
+            "carbs": 30.25,
+            "protein": 31.41
+        }
+    },
+    {
+        "name": "Bánh tráng nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 416,
+            "fat": 6.43,
+            "carbs": 55.59,
+            "protein": 21.15
+        }
+    },
+    {
+        "name": "Bánh canh",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 192,
+            "fat": 15.44,
+            "carbs": 16.44,
+            "protein": 29.44
+        }
+    },
+    {
+        "name": "Cà ri gà",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 158,
+            "fat": 28.91,
+            "carbs": 66.46,
+            "protein": 26.51
+        }
+    },
+    {
+        "name": "Nem rán",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 446,
+            "fat": 15.14,
+            "carbs": 57.89,
+            "protein": 23.02
+        }
+    },
+    {
+        "name": "Bún chả",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 181,
+            "fat": 20.7,
+            "carbs": 24.85,
+            "protein": 17.1
+        }
+    },
+    {
+        "name": "Gỏi đu đủ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 484,
+            "fat": 11.13,
+            "carbs": 30.7,
+            "protein": 7.08
+        }
+    },
+    {
+        "name": "Rau muống xào",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 275,
+            "fat": 12.21,
+            "carbs": 46.14,
+            "protein": 21.77
+        }
+    },
+    {
+        "name": "Cháo lòng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 453,
+            "fat": 26.12,
+            "carbs": 15.53,
+            "protein": 39.89
+        }
+    },
+    {
+        "name": "Cơm tấm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 264,
+            "fat": 26.65,
+            "carbs": 62.88,
+            "protein": 21.45
+        }
+    },
+    {
+        "name": "Gỏi cuốn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 413,
+            "fat": 27.75,
+            "carbs": 56.61,
+            "protein": 30.92
+        }
+    },
+    {
+        "name": "Bún đậu mắm tôm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 485,
+            "fat": 5.41,
+            "carbs": 19.35,
+            "protein": 12.72
+        }
+    },
+    {
+        "name": "Nem nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 436,
+            "fat": 15.95,
+            "carbs": 48.59,
+            "protein": 13.46
+        }
+    },
+    {
+        "name": "Bún tôm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 407,
+            "fat": 15.7,
+            "carbs": 61.41,
+            "protein": 22.01
+        }
+    },
+    {
+        "name": "Bánh ít trần",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 444,
+            "fat": 11.33,
+            "carbs": 62.74,
+            "protein": 27.24
+        }
+    },
+    {
+        "name": "Bò lúc lắc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 299,
+            "fat": 10.07,
+            "carbs": 50.84,
+            "protein": 5.26
+        }
+    },
+    {
+        "name": "Bánh tét",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 327,
+            "fat": 18.71,
+            "carbs": 53.09,
+            "protein": 39.7
+        }
+    },
+    {
+        "name": "Bánh giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 221,
+            "fat": 15.03,
+            "carbs": 59.33,
+            "protein": 36.26
+        }
+    },
+    {
+        "name": "Canh chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 303,
+            "fat": 20.18,
+            "carbs": 69.2,
+            "protein": 26.23
+        }
+    },
+    {
+        "name": "Súp cua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 452,
+            "fat": 26.22,
+            "carbs": 65.04,
+            "protein": 14.51
+        }
+    },
+    {
+        "name": "Bánh khot",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 318,
+            "fat": 24.27,
+            "carbs": 52.53,
+            "protein": 34.34
+        }
+    },
+    {
+        "name": "Bánh mì",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 371,
+            "fat": 25.52,
+            "carbs": 78.79,
+            "protein": 25.2
+        }
+    },
+    {
+        "name": "Tôm hùm bơ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 175,
+            "fat": 27.59,
+            "carbs": 17.14,
+            "protein": 21.75
+        }
+    },
+    {
+        "name": "Bún mắm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 191,
+            "fat": 5.66,
+            "carbs": 21.19,
+            "protein": 37.67
+        }
+    },
+    {
+        "name": "Gỏi cuốn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 466,
+            "fat": 25.41,
+            "carbs": 74.1,
+            "protein": 18.35
+        }
+    },
+    {
+        "name": "Bún cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 268,
+            "fat": 13.78,
+            "carbs": 58.16,
+            "protein": 15.13
+        }
+    },
+    {
+        "name": "Lẩu thái",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 217,
+            "fat": 19.41,
+            "carbs": 64.25,
+            "protein": 6.6
+        }
+    },
+    {
+        "name": "Bánh xèo",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 488,
+            "fat": 14.15,
+            "carbs": 12.68,
+            "protein": 33.13
+        }
+    },
+    {
+        "name": "Đậu phụ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 302,
+            "fat": 13.39,
+            "carbs": 55.77,
+            "protein": 22.83
+        }
+    },
+    {
+        "name": "Bánh pía",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 304,
+            "fat": 8.23,
+            "carbs": 39.32,
+            "protein": 10.18
+        }
+    },
+    {
+        "name": "Bánh chưng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 336,
+            "fat": 10.67,
+            "carbs": 41.26,
+            "protein": 14.21
+        }
+    },
+    {
+        "name": "Tôm hùm bơ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 416,
+            "fat": 6.51,
+            "carbs": 16.91,
+            "protein": 29.91
+        }
+    },
+    {
+        "name": "Bánh bao",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 158,
+            "fat": 16.07,
+            "carbs": 10.65,
+            "protein": 13.14
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 406,
+            "fat": 9.21,
+            "carbs": 72.59,
+            "protein": 8.84
+        }
+    },
+    {
+        "name": "Bún riêu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 207,
+            "fat": 21.99,
+            "carbs": 46.42,
+            "protein": 28.79
+        }
+    },
+    {
+        "name": "Xôi",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 403,
+            "fat": 28.16,
+            "carbs": 79.11,
+            "protein": 30.89
+        }
+    },
+    {
+        "name": "Bánh pía",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 296,
+            "fat": 21.28,
+            "carbs": 32.41,
+            "protein": 31.32
+        }
+    },
+    {
+        "name": "Bò lúc lắc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 329,
+            "fat": 11.88,
+            "carbs": 31.72,
+            "protein": 29.36
+        }
+    },
+    {
+        "name": "Bánh chưng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 451,
+            "fat": 12.41,
+            "carbs": 38.57,
+            "protein": 28.32
+        }
+    },
+    {
+        "name": "Chả cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 273,
+            "fat": 7.21,
+            "carbs": 59.66,
+            "protein": 9.84
+        }
+    },
+    {
+        "name": "Bún cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 269,
+            "fat": 11.49,
+            "carbs": 73.99,
+            "protein": 32.91
+        }
+    },
+    {
+        "name": "Bún bò Huế",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 222,
+            "fat": 6.13,
+            "carbs": 70.84,
+            "protein": 23.57
+        }
+    },
+    {
+        "name": "Cháo lòng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 480,
+            "fat": 28.41,
+            "carbs": 61.02,
+            "protein": 35.24
+        }
+    },
+    {
+        "name": "Ốc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 190,
+            "fat": 26.14,
+            "carbs": 57.29,
+            "protein": 31.61
+        }
+    },
+    {
+        "name": "Nem nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 418,
+            "fat": 16.31,
+            "carbs": 51.17,
+            "protein": 8.66
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 349,
+            "fat": 19.17,
+            "carbs": 59.96,
+            "protein": 25.87
+        }
+    },
+    {
+        "name": "Phá lấu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 468,
+            "fat": 28.77,
+            "carbs": 75.53,
+            "protein": 5.68
+        }
+    },
+    {
+        "name": "Chả giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 386,
+            "fat": 29.31,
+            "carbs": 20.73,
+            "protein": 22.97
+        }
+    },
+    {
+        "name": "Súp cua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 257,
+            "fat": 11.21,
+            "carbs": 74.24,
+            "protein": 31.3
+        }
+    },
+    {
+        "name": "Bánh chưng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 368,
+            "fat": 8.21,
+            "carbs": 57.02,
+            "protein": 17.77
+        }
+    },
+    {
+        "name": "Bánh khot",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 205,
+            "fat": 10.21,
+            "carbs": 62.51,
+            "protein": 36.18
+        }
+    },
+    {
+        "name": "Cơm sườn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 485,
+            "fat": 29.17,
+            "carbs": 42.05,
+            "protein": 34.2
+        }
+    },
+    {
+        "name": "Đậu phụ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 154,
+            "fat": 22.74,
+            "carbs": 76.84,
+            "protein": 27.69
+        }
+    },
+    {
+        "name": "Cà phê sữa đá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 296,
+            "fat": 25.52,
+            "carbs": 39.39,
+            "protein": 37.94
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 206,
+            "fat": 21.31,
+            "carbs": 77.88,
+            "protein": 12.24
+        }
+    },
+    {
+        "name": "Bún đậu mắm tôm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 361,
+            "fat": 8.71,
+            "carbs": 65.67,
+            "protein": 8.36
+        }
+    },
+    {
+        "name": "Bánh tét",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 424,
+            "fat": 12.2,
+            "carbs": 66.97,
+            "protein": 13.6
+        }
+    },
+    {
+        "name": "Bún tôm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 490,
+            "fat": 29.7,
+            "carbs": 71.46,
+            "protein": 8.32
+        }
+    },
+    {
+        "name": "Thịt kho tàu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 403,
+            "fat": 19.17,
+            "carbs": 36.32,
+            "protein": 9.53
+        }
+    },
+    {
+        "name": "Gỏi đu đủ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 326,
+            "fat": 11.49,
+            "carbs": 13.84,
+            "protein": 25.15
+        }
+    },
+    {
+        "name": "Bánh xèo",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 204,
+            "fat": 15.13,
+            "carbs": 67.95,
+            "protein": 10.28
+        }
+    },
+    {
+        "name": "Bánh giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 221,
+            "fat": 9.08,
+            "carbs": 65.1,
+            "protein": 5.12
+        }
+    },
+    {
+        "name": "Bánh giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 244,
+            "fat": 29.47,
+            "carbs": 44.3,
+            "protein": 21.13
+        }
+    },
+    {
+        "name": "Bún mắm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 442,
+            "fat": 23.78,
+            "carbs": 61.97,
+            "protein": 21.27
+        }
+    },
+    {
+        "name": "Cà ri gà",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 287,
+            "fat": 8.16,
+            "carbs": 44.17,
+            "protein": 36.55
+        }
+    },
+    {
+        "name": "Phở cuốn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 324,
+            "fat": 16.74,
+            "carbs": 28.41,
+            "protein": 18.32
+        }
+    },
+    {
+        "name": "Bún cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 343,
+            "fat": 7.16,
+            "carbs": 64.58,
+            "protein": 14.76
+        }
+    },
+    {
+        "name": "Bún riêu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 204,
+            "fat": 15.57,
+            "carbs": 51.05,
+            "protein": 24.53
+        }
+    },
+    {
+        "name": "Sườn nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 227,
+            "fat": 6.37,
+            "carbs": 76.73,
+            "protein": 39.26
+        }
+    },
+    {
+        "name": "Thịt kho tàu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 190,
+            "fat": 20.82,
+            "carbs": 14.53,
+            "protein": 15.55
+        }
+    },
+    {
+        "name": "Cá lóc nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 488,
+            "fat": 7.29,
+            "carbs": 47.27,
+            "protein": 11.88
+        }
+    },
+    {
+        "name": "Đậu phụ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 416,
+            "fat": 19.64,
+            "carbs": 77.31,
+            "protein": 32.75
+        }
+    },
+    {
+        "name": "Bánh xèo thịt nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 361,
+            "fat": 21.67,
+            "carbs": 23.0,
+            "protein": 31.96
+        }
+    },
+    {
+        "name": "Tôm hùm bơ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 499,
+            "fat": 6.68,
+            "carbs": 47.32,
+            "protein": 18.64
+        }
+    },
+    {
+        "name": "Cà phê sữa đá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 340,
+            "fat": 14.75,
+            "carbs": 66.78,
+            "protein": 31.49
+        }
+    },
+    {
+        "name": "Ốc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 493,
+            "fat": 16.33,
+            "carbs": 40.45,
+            "protein": 5.81
+        }
+    },
+    {
+        "name": "Rau muống xào",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 244,
+            "fat": 7.63,
+            "carbs": 34.79,
+            "protein": 10.72
+        }
+    },
+    {
+        "name": "Bánh xèo",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 276,
+            "fat": 16.6,
+            "carbs": 50.17,
+            "protein": 38.58
+        }
+    },
+    {
+        "name": "Bánh pía",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 323,
+            "fat": 7.18,
+            "carbs": 30.74,
+            "protein": 30.76
+        }
+    },
+    {
+        "name": "Bánh tét",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 393,
+            "fat": 22.91,
+            "carbs": 25.83,
+            "protein": 37.97
+        }
+    },
+    {
+        "name": "Chả cá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 297,
+            "fat": 6.08,
+            "carbs": 54.14,
+            "protein": 30.27
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 412,
+            "fat": 18.97,
+            "carbs": 57.29,
+            "protein": 7.41
+        }
+    },
+    {
+        "name": "Mì Quảng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 356,
+            "fat": 17.87,
+            "carbs": 35.08,
+            "protein": 5.82
+        }
+    },
+    {
+        "name": "Cà ri gà",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 398,
+            "fat": 13.03,
+            "carbs": 40.77,
+            "protein": 30.32
+        }
+    },
+    {
+        "name": "Cháo lòng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 365,
+            "fat": 16.62,
+            "carbs": 46.2,
+            "protein": 5.73
+        }
+    },
+    {
+        "name": "Bún tôm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 437,
+            "fat": 6.63,
+            "carbs": 74.15,
+            "protein": 6.5
+        }
+    },
+    {
+        "name": "Bò lúc lắc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 180,
+            "fat": 28.54,
+            "carbs": 74.71,
+            "protein": 32.98
+        }
+    },
+    {
+        "name": "Cơm tấm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 322,
+            "fat": 12.47,
+            "carbs": 23.33,
+            "protein": 12.84
+        }
+    },
+    {
+        "name": "Bánh mì",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 403,
+            "fat": 21.21,
+            "carbs": 58.42,
+            "protein": 15.66
+        }
+    },
+    {
+        "name": "Thịt kho tàu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 477,
+            "fat": 20.07,
+            "carbs": 66.01,
+            "protein": 9.72
+        }
+    },
+    {
+        "name": "Bánh chưng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 335,
+            "fat": 16.42,
+            "carbs": 13.36,
+            "protein": 24.93
+        }
+    },
+    {
+        "name": "Mì Quảng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 421,
+            "fat": 18.43,
+            "carbs": 37.1,
+            "protein": 5.55
+        }
+    },
+    {
+        "name": "Bún bò Huế",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 220,
+            "fat": 5.33,
+            "carbs": 68.19,
+            "protein": 21.63
+        }
+    },
+    {
+        "name": "Bánh pía",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 162,
+            "fat": 5.55,
+            "carbs": 62.9,
+            "protein": 32.76
+        }
+    },
+    {
+        "name": "Bún mắm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 430,
+            "fat": 11.05,
+            "carbs": 44.24,
+            "protein": 21.03
+        }
+    },
+    {
+        "name": "Canh chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 432,
+            "fat": 22.06,
+            "carbs": 74.76,
+            "protein": 5.27
+        }
+    },
+    {
+        "name": "Bánh đa cua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 161,
+            "fat": 18.04,
+            "carbs": 28.11,
+            "protein": 30.83
+        }
+    },
+    {
+        "name": "Bún chả",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 325,
+            "fat": 6.11,
+            "carbs": 61.76,
+            "protein": 35.65
+        }
+    },
+    {
+        "name": "Bánh xèo",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 243,
+            "fat": 23.61,
+            "carbs": 32.39,
+            "protein": 9.28
+        }
+    },
+    {
+        "name": "Bánh bột lọc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 213,
+            "fat": 11.67,
+            "carbs": 50.88,
+            "protein": 23.82
+        }
+    },
+    {
+        "name": "Bánh chưng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 384,
+            "fat": 18.39,
+            "carbs": 11.98,
+            "protein": 20.56
+        }
+    },
+    {
+        "name": "Cà phê sữa đá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 425,
+            "fat": 25.86,
+            "carbs": 74.11,
+            "protein": 22.66
+        }
+    },
+    {
+        "name": "Cá kho tộ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 468,
+            "fat": 11.33,
+            "carbs": 59.29,
+            "protein": 25.07
+        }
+    },
+    {
+        "name": "Gỏi đu đủ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 277,
+            "fat": 8.99,
+            "carbs": 49.13,
+            "protein": 15.48
+        }
+    },
+    {
+        "name": "Bò kho",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 170,
+            "fat": 24.87,
+            "carbs": 42.32,
+            "protein": 19.58
+        }
+    },
+    {
+        "name": "Gỏi cuốn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 337,
+            "fat": 20.93,
+            "carbs": 70.54,
+            "protein": 24.51
+        }
+    },
+    {
+        "name": "Lẩu thái",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 410,
+            "fat": 11.2,
+            "carbs": 22.13,
+            "protein": 29.87
+        }
+    },
+    {
+        "name": "Bánh khot",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 294,
+            "fat": 12.12,
+            "carbs": 52.18,
+            "protein": 17.24
+        }
+    },
+    {
+        "name": "Mì Quảng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 270,
+            "fat": 23.15,
+            "carbs": 13.01,
+            "protein": 38.9
+        }
+    },
+    {
+        "name": "Cháo lòng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 269,
+            "fat": 11.25,
+            "carbs": 77.98,
+            "protein": 20.99
+        }
+    },
+    {
+        "name": "Mì Quảng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 329,
+            "fat": 24.77,
+            "carbs": 14.97,
+            "protein": 15.55
+        }
+    },
+    {
+        "name": "Xôi",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 189,
+            "fat": 14.27,
+            "carbs": 29.43,
+            "protein": 25.76
+        }
+    },
+    {
+        "name": "Canh chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 439,
+            "fat": 18.44,
+            "carbs": 54.37,
+            "protein": 20.24
+        }
+    },
+    {
+        "name": "Cháo lòng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 491,
+            "fat": 10.93,
+            "carbs": 34.62,
+            "protein": 12.87
+        }
+    },
+    {
+        "name": "Sườn xào chua ngọt",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 486,
+            "fat": 29.9,
+            "carbs": 35.79,
+            "protein": 17.34
+        }
+    },
+    {
+        "name": "Cà phê sữa đá",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 252,
+            "fat": 15.57,
+            "carbs": 51.18,
+            "protein": 20.54
+        }
+    },
+    {
+        "name": "Bún mắm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 169,
+            "fat": 25.77,
+            "carbs": 76.09,
+            "protein": 29.19
+        }
+    },
+    {
+        "name": "Bún riêu",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 243,
+            "fat": 7.47,
+            "carbs": 50.33,
+            "protein": 33.2
+        }
+    },
+    {
+        "name": "Bò kho",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 496,
+            "fat": 23.58,
+            "carbs": 39.66,
+            "protein": 35.62
+        }
+    },
+    {
+        "name": "Sườn xào chua ngọt",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 494,
+            "fat": 22.51,
+            "carbs": 47.08,
+            "protein": 9.41
+        }
+    },
+    {
+        "name": "Cơm cháy",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 351,
+            "fat": 5.38,
+            "carbs": 24.05,
+            "protein": 39.89
+        }
+    },
+    {
+        "name": "Cơm sườn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 309,
+            "fat": 17.71,
+            "carbs": 33.1,
+            "protein": 25.18
+        }
+    },
+    {
+        "name": "Phở",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 202,
+            "fat": 19.41,
+            "carbs": 69.98,
+            "protein": 27.7
+        }
+    },
+    {
+        "name": "Canh khoai mỡ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 283,
+            "fat": 18.62,
+            "carbs": 64.91,
+            "protein": 17.98
+        }
+    },
+    {
+        "name": "Chè",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 390,
+            "fat": 28.56,
+            "carbs": 61.31,
+            "protein": 38.17
+        }
+    },
+    {
+        "name": "Nem rán",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 219,
+            "fat": 13.1,
+            "carbs": 61.86,
+            "protein": 14.08
+        }
+    },
+    {
+        "name": "Thịt nướng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 216,
+            "fat": 21.46,
+            "carbs": 33.73,
+            "protein": 8.94
+        }
+    },
+    {
+        "name": "Bánh canh",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 230,
+            "fat": 28.05,
+            "carbs": 56.86,
+            "protein": 32.4
+        }
+    },
+    {
+        "name": "Chè",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 392,
+            "fat": 18.76,
+            "carbs": 38.65,
+            "protein": 33.46
+        }
+    },
+    {
+        "name": "Bò lúc lắc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 470,
+            "fat": 21.68,
+            "carbs": 73.76,
+            "protein": 26.62
+        }
+    },
+    {
+        "name": "Cơm hến",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 260,
+            "fat": 18.89,
+            "carbs": 61.49,
+            "protein": 25.45
+        }
+    },
+    {
+        "name": "Cà ri gà",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 351,
+            "fat": 17.31,
+            "carbs": 49.54,
+            "protein": 23.04
+        }
+    },
+    {
+        "name": "Canh bí đỏ",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 387,
+            "fat": 19.32,
+            "carbs": 12.51,
+            "protein": 18.42
+        }
+    },
+    {
+        "name": "Bánh chưng",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 387,
+            "fat": 25.77,
+            "carbs": 12.43,
+            "protein": 38.21
+        }
+    },
+    {
+        "name": "Bánh cuốn",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 193,
+            "fat": 14.37,
+            "carbs": 58.58,
+            "protein": 31.01
+        }
+    },
+    {
+        "name": "Bánh đúc",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 386,
+            "fat": 27.14,
+            "carbs": 54.16,
+            "protein": 18.79
+        }
+    },
+    {
+        "name": "Bánh ít trần",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 377,
+            "fat": 17.07,
+            "carbs": 78.11,
+            "protein": 11.31
+        }
+    },
+    {
+        "name": "Chả giò",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 204,
+            "fat": 20.09,
+            "carbs": 51.3,
+            "protein": 15.01
+        }
+    },
+    {
+        "name": "Nem chua",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 342,
+            "fat": 6.25,
+            "carbs": 79.92,
+            "protein": 34.46
+        }
+    },
+    {
+        "name": "Bánh mì",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 315,
+            "fat": 11.58,
+            "carbs": 32.19,
+            "protein": 19.73
+        }
+    },
+    {
+        "name": "Bún mắm",
+        "portion": {
+            "portionName": "Phần",
+            "portionSize": 100
+        },
+        "nutritionalInfo": {
+            "averageValue": 100,
+            "kcal": 370,
+            "fat": 14.43,
+            "carbs": 38.2,
+            "protein": 6.98
+        }
+    }
+]
